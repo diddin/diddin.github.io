@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Muhammad Khusnuddin Wahyu Pamungkas
+### WEB Developer and Mobile Application Developer 
 
 You can use the [editor on GitHub](https://github.com/diddin/diddin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
