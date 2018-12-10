@@ -36,4 +36,4 @@ i have not experience working at software house. But i have good coding skills. 
     BOOTSTRAP         REST API
     GULP              ExpressJS
    
-Please visit my repository [github.com/diddin]('/project/list.md')
+Please visit my repository [github.com/diddin]('project/list.md')
