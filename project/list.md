@@ -11,30 +11,12 @@ i have not experience working at software house. But i have good coding skills. 
 
 
 
-## Experience
+## My Project
 
-    1. PT Mulia Boga Raya               3. PT Astra Honda Motor
-    Production Operator                 Production Operator
-    March 2016 - Feb 2017               Dec 2011 - Aug 2013
-    
-    2. PT Unilever Indonesia            4. PT Mandiri Panca Prima
-    Production Operator                 Engineering Staff
-    Jan 2014 - Jan 2016                 Jul 2010 - Oct 2011`
+    1 Please visit my repository [first](project/first)
+    2 Please visit my repository [second](project/second)
+    3 Please visit my repository [three](project/three)
+    4 Please visit my repository [four](project/four)
+    5 Please visit my repository [five](project/five)
    
-##  Education
-
-    Bachelor
-    Computer Science
-    GPA 3.15
-    
-##  Skills
-
-    HTML              PHP               NPM
-    CSS               AJAX              COMPOSER
-    JAVASCRIPT        CODEIGNITER       GIT
-    SCSS              LARAVEL 
-    JQUERY            SLIM 
-    BOOTSTRAP         REST API
-    GULP              ExpressJS
    
-Please visit my repository [github.com/diddin]('https://github.com/diddin')
