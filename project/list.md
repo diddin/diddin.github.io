@@ -13,7 +13,9 @@ i have not experience working at software house. But i have good coding skills. 
 
 ## My Project
 
-   1 [REACT NATIVE](/Instagram_Clone/readme)
+   1 [REACT NATIVE](
+        diddin.github.io/project/Instagram_Clone/readme.md
+      )
    
    2 [REST API Slim Framework](second)
    
