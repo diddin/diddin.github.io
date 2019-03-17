@@ -31,7 +31,7 @@ i have not experience working at software house. But i have good coding skills. 
     HTML              PHP               NPM
     CSS               AJAX              COMPOSER
     JAVASCRIPT        CODEIGNITER       GIT
-    SCSS              LARAVEL 
+    SCSS              LARAVEL           Express GateWay
     JQUERY            SLIM 
     BOOTSTRAP         REST API
     GULP              ExpressJS
