@@ -26,4 +26,4 @@ I work at Distributed Website Corporation as Software Developer.
     BOOTSTRAP         REST API
     GULP              ExpressJS
    
- [About my project](project TO/list)
+ [About my project](project/list)
